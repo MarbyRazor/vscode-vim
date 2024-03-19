@@ -59,4 +59,3 @@
         "when": "editorTextFocus && vim.active && vim.use<C-k> && !inDebugRepl"
     },
 ]
-
